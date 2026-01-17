@@ -13,21 +13,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="MyPhoto" width="34%" src="pfp.jpg">
 
-- 🔭 I’m currently studying on [Universitas Pembangunan Jaya](https://upj.ac.id/)
 
-- 🌱 I’m currently learning **Python, HTML, CSS, Javascript, Dart, PHP, C#, SQL**
-
-- 🤝 I’m looking for help with [stackoverflow](https://stackoverflow.com/), [w3schools](https://www.w3schools.com/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/atilanaufal](https://github.com/atilanaufal)
-
-- 💬 Ask me about **C#, Javascript, Dart, Flutter, React, Bootstrap, MySQL, Firebase**
-
-- 📫 How to reach me **atilanaufal08@gmail.com**
-
-- ⚡ Fun fact **I think I'm depressed**
 
 <br> 
 
